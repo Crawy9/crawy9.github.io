@@ -29,7 +29,7 @@ body {
 .bgg li.sphere {
     width: 650px;
     height: 650px;
-    background: radial-gradient(rgba(2, 0, 36, 0.5) 47%, rgba(108, 108, 142, 0.7) 51%, rgba(171, 171, 255, 0.7) 52%, #020024 53%);
+    background: radial-gradient();
 }
 
 ul {
